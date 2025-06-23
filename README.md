@@ -4,5 +4,5 @@
 
 🔠 C1 Advanced English Level
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js&theme=light,html,css,react,aws,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,j,html,css,react,aws,c#s&theme=light)](https://skillicons.dev)
 
