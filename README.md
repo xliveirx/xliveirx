@@ -1,6 +1,6 @@
 👨‍💻 Software Engineer.
 
-🎓 Studying Software Enginner at Universidade de Caxias do Sul
+🎓 Studying Software Engineering at Universidade de Caxias do Sul
 
 🔠 C1 Advanced English Level
 
