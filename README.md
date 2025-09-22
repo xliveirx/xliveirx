@@ -1,8 +1,10 @@
 # Olá, eu sou o João!
 
-👨‍💻 Software Engineer.
+👨‍💻 Software Engineer at NL Informática.
 
 🎓 Studying Software Engineering at Universidade de Caxias do Sul
+
+☁️ 1x AWS Certified
 
 🔠 C1 Advanced English Level
 
