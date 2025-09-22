@@ -10,7 +10,7 @@
 
 📫 joaopedrocorsodeoliveira15@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgres,react,docker,kafka,terraform&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgres,react,docker,kafka,terraform,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xliveirx/xliveirx/output/pacman-contribution-graph-dark.svg">
